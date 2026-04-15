@@ -1,2 +1,2 @@
 Live Demo Link:-
-https://singular-sunburst-9653a3.netlify.app/dashboard
+https://spectacular-alfajores-b4c155.netlify.app/dashboard
